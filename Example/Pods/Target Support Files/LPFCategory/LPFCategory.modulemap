@@ -1,0 +1,6 @@
+framework module LPFCategory {
+  umbrella header "LPFCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

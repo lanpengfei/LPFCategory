@@ -1,0 +1,16 @@
+PODS:
+  - LPFCategory (0.1.0)
+
+DEPENDENCIES:
+  - LPFCategory (from `../`)
+
+EXTERNAL SOURCES:
+  LPFCategory:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LPFCategory: d7f3fa840d1764a6aee35aa74223e1b9232b37b6
+
+PODFILE CHECKSUM: 9c36e3d6d93f85509286396841d25d2c48df2575
+
+COCOAPODS: 1.4.0
