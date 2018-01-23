@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LPFCategory_Example' do
+  pod 'LPFCategory', :path => '../'
+
+  target 'LPFCategory_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
