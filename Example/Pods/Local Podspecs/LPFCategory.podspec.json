@@ -18,10 +18,5 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "LPFCategory/Classes/**/*",
-  "resource_bundles": {
-    "LPFCategory": [
-      "LPFCategory/Classes/*.xib"
-    ]
-  }
+  "source_files": "LPFCategory/Classes/**/*"
 }
