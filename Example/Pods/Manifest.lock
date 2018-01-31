@@ -1,5 +1,5 @@
 PODS:
-  - LPFCategory (0.1.0)
+  - LPFCategory (0.2.0)
 
 DEPENDENCIES:
   - LPFCategory (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  LPFCategory: d443f83bc7b8909155e186d18fdfdd0b8140c161
+  LPFCategory: ba2f4a841a75eb4918d91e353701262daa00b427
 
 PODFILE CHECKSUM: 9c36e3d6d93f85509286396841d25d2c48df2575
 
